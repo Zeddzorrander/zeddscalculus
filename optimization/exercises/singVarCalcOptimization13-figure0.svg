@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="114.581pt" height="114.581pt" viewBox="0 0 114.581 114.581">
+<path transform="matrix(1,0,0,-1,57.291,57.29)" stroke-width="1.19553" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M 56.69362 0 C 56.69362 31.31142 31.31142 56.69362 0 56.69362 C -31.31142 56.69362 -56.69362 31.31142 -56.69362 0 "/>
+<path transform="matrix(1,0,0,-1,57.291,57.29)" stroke-width="1.19553" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M -56.69362 -56.69362 L 56.69362 -56.69362 "/>
+<path transform="matrix(1,0,0,-1,57.291,57.29)" stroke-width="1.19553" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M 56.69362 -56.69362 L 56.69362 0 "/>
+<path transform="matrix(1,0,0,-1,57.291,57.29)" stroke-width="1.19553" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M -56.69362 -56.69362 L -56.69362 0 "/>
+<path transform="matrix(1,0,0,-1,57.291,57.29)" stroke-width="1.19553" stroke-linecap="butt" stroke-dasharray="2.98883,2.98883" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M -56.69362 0 L 56.69362 0 "/>
+</svg>
