@@ -35,7 +35,7 @@
  	\begin{question}
  		What interval represents all points that are within $0.5$ units of $1$?  $\left( \answer{0.5}, \answer{1.5}\right)$
 		\begin{question}
- 			Set $C$ at $0.5$ and $D$ at $1.5$ to form the interval $(0.5, 1.5)$ on the $y$-axis.  Which interval(s) on the $x$-axis map to this interval?
+ 			Set $C$ at $0.5$ and $D$ at $1.5$ to form the interval $(0.5, 1.5)$ on the $y$-axis.  Which interval(s) on the $x$-axis map to this interval? Select all that apply.
  			\begin{selectAll}
  				\choice{$(-1, 1)$}
  				\choice[correct]{$(-0.5, 0.6)$}
@@ -43,9 +43,32 @@
  				\choice[correct]{$(5.23, 5.65)$}
  			\end{selectAll}
  		    \begin{feedback}
- 		    	Notice: From the graph, we can estimate that $\lim\limits_{x \to 0}f(x)=1$ and this exercise shows that $f$ maps $x$-values in $(-0.5, 0.6)$ to $y$-values in $(0.5, 1.5)$.  In fact, you can use the application to see that $f$ maps $x$-values within $0.5$ units of $a=0$ to $y$-values that are within $0.5$ units of $L=1$.
+ 		    	Notice: From the graph, we can estimate that $\lim\limits_{x \to 0}f(x)=1$ and this exercise shows that $f$ maps $x$-values in $(-0.5, 0.6)$ to $y$-values in $(0.5, 1.5)$.  In fact, you can use the application to see that $f$ maps $x$-values within $0.5$ units of $a=0$ to $y$-values that are within at least $0.5$ units of $L=1$.
  		    \end{feedback}
   		\end{question}	
+ 	\end{question}
+ 	\begin{question}
+ 		Given that $\lim\limits_{x \to 6}f(x)=2.5$, which of the following intervals represent an interval centered at $a=6$ such that $f$ maps any $x$-value in that interval to a $y$-value that is within $0.5$ units of $L=2.5$?  Select all that apply.
+ 		\begin{selectAll}
+ 			\choice{$(-2.2, -1.8)$}
+ 			\choice[correct]{$(5.9, 6.1)$}
+ 			\choice{$(5.84, 6.14)$}
+ 			\choice[correct]{$(5.95, 6.05)$}
+ 		\end{selectAll}
+ 		\begin{feedback}
+ 			Notice, any $x$-value in either $(-2.2, -1.8)$ or $ (5.84, 6.14) $ gets mapped to a $y$-values that are within $0.5$ units of $2.5$, but neither interval is centered at $a=6$.
+ 			
+ 			Also, notice that once we find an interval that works, like $ (5.9, 6.1)$, any interval that is centered at $a=6$, but has a smaller radius will also work.  If the tool allowed us to zoom in on the graph, we could verify this by seeing that $f$ maps any $x$-value in the interval $ (5.99, 6.01) $ to $y$-values that are within $0.5$ units of $L=2.5$.
+ 		\end{feedback}
+ 		\begin{question}
+ 			How could $ (5.84, 6.14) $ be modified so that it satisfies the criteria in the original problem?
+			\[
+			   \left(\answer{5.86}, \answer{6.14}\right)
+			\]
+			\begin{feedback}
+				$f$ maps $x$-values in the interval $ (5.84, 6.14) $ to $y$-values that are within 0.5 units, but it is NOT centered at $6$.  Since all $x$-values within this interval get mapped to $y$-values that are within $0.5$ units of $L=2.5$, we need to find a smaller interval that is contained in this interval, but that IS centered at $6$.  Since $5.84$ is $0.16$ units away from $6$, and $6.14$ is $0.14$ units, we need to pick the smaller value for the radius of our interval.  That is, we need an interval that is centered at $6$ with a radius of $0.14$.  
+			\end{feedback}
+ 		\end{question}
  	\end{question}
     \end{exercise}
 \end{document}
