@@ -2,14 +2,11 @@
 \input{../../preamble.tex}
 
 \outcome{Describe the image of a function}
-\outcome{}
+\outcome{Produce open intervals around domain number that adheres to given requirements}
 
 \author{Kevin James}
 
 \begin{document}
-   In this activity, we will be thinking about intervals in a new way.  We will define an interval by picking a point to be its center and then defining a radius.  For example, the interval centered at $1$ with a radius of $2$ is $(-1, 3)$.  This interval represents all values that are within $2$ units of the point $1$ on the number line.
-   
-   If we define an interval this way 
    \begin{exercise}
    	Use the application below to answer the questions that follow.  To set the restricted domain, click on point $ A $ or point $ B $ and move the selected point using the left and right arrow keys on your keyboard.  Alternatively, you can drag the point $ A $ to the desired left endpoint and drag the point $ B $ to the desired right endpoint.  Repeat this process with $ C $ and $ D $ to set an interval on the $y$-axis.  The arrow keys will move each point by 0.1 units.  Dragging will allow you to get more accurate positions.  
     
@@ -61,13 +58,13 @@
  			Also, notice that once we find an interval that works, like $ (5.9, 6.1)$, any interval that is centered at $a=6$, but has a smaller radius will also work.  If the tool allowed us to zoom in on the graph, we could verify this by seeing that $f$ maps any $x$-value in the interval $ (5.99, 6.01) $ to $y$-values that are within $0.5$ units of $L=2.5$.
  		\end{feedback}
  		\begin{question}
- 			How could $ (5.84, 6.14) $ be modified so that it satisfies the criteria in the original problem?
-			\[
-			   \left(\answer{5.86}, \answer{6.14}\right)
-			\]
-			\begin{feedback}
-				$f$ maps $x$-values in the interval $ (5.84, 6.14) $ to $y$-values that are within 0.5 units, but it is NOT centered at $6$.  Since all $x$-values within this interval get mapped to $y$-values that are within $0.5$ units of $L=2.5$, we need to find a smaller interval that is contained in this interval, but that IS centered at $6$.  Since $5.84$ is $0.16$ units away from $6$, and $6.14$ is $0.14$ units, we need to pick the smaller value for the radius of our interval.  That is, we need an interval that is centered at $6$ with a radius of $0.14$.  
-			\end{feedback}
+ 			Which endpoint of $ (5.84, 6.14) $ needs to be changed so that the new interval satisfies the criteria in the original problem?  \wordChoice{\choice[correct]{5.84}\choice{6.14}}
+ 			\begin{question}
+ 				If we replace $5.84$ with \answer{5.86}, then the resulting interval will satisfy the criteria in the original problem. 
+				\begin{feedback}
+					$f$ maps $x$-values in the interval $ (5.84, 6.14) $ to $y$-values that are within 0.5 units, but it is NOT centered at $6$.  Since all $x$-values within this interval get mapped to $y$-values that are within $0.5$ units of $L=2.5$, we need to find a smaller interval that is contained in this interval, but that IS centered at $6$.  Since $5.84$ is $0.16$ units away from $6$, and $6.14$ is $0.14$ units, we need to pick the smaller value for the radius of our interval.  That is, we need an interval that is centered at $6$ with a radius of $0.14$.  
+				\end{feedback}
+			\end{question}
  		\end{question}
  	\end{question}
     \end{exercise}
