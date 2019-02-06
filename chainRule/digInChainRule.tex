@@ -38,7 +38,7 @@ $f(x)$ and $g(x)$? To do so, we need the \textit{chain rule}.
 \begin{theorem}[Chain Rule]\index{chain rule}\index{derivative rules!chain}
 If $f$ and $g$ are differentiable, then
 \[
-\ddx f(g(x)) = f'(g(x))g'(x).
+\frac{d}{dx} f(g(x)) = f'(g(x))g'(x).
 \]
 \end{theorem}
 
@@ -51,7 +51,7 @@ rules we have seen. Let's return to our motivating example.
 \begin{example}
 Compute:
 \[
-\ddx \sin(1+2x)
+\frac{d}{dx} \sin(1+2x)
 \]
 
 \begin{explanation}
@@ -61,7 +61,7 @@ f'(x) = \answer[given]{\cos(x)} \qquad\text{and}\qquad g'(x) = \answer[given]{2}
 \]
 Hence
 \begin{align*}
-\ddx \sin(1+2x) &= \ddx f(g(x))\\ 
+\frac{d}{dx} \sin(1+2x) &= \frac{d}{dx} f(g(x))\\ 
 &=f'(g(x))g'(x) \\
 &= \cos(\answer[given]{1+2x})\cdot \answer[given]{2}\\
 &= 2\cos(1+2x).
@@ -75,7 +75,7 @@ Let's see a more complicated chain of compositions.
 \begin{example}
 Compute:
 \[
-\ddx \sqrt{1+\sqrt{x}}
+\frac{d}{dx} \sqrt{1+\sqrt{x}}
 \]
 
 \begin{explanation}
@@ -86,7 +86,7 @@ $f(x)=\sqrt{x}$ and $g(x)=1+x$. Hence,
 \]
 and by the chain rule we know
 \[
-\ddx f(g(f(x))) = f'(g(f(x)))g'(f(x))f'(x).
+\frac{d}{dx} f(g(f(x))) = f'(g(f(x)))g'(f(x))f'(x).
 \]
 Since 
 \[
@@ -94,7 +94,7 @@ f'(x) = \answer[given]{\frac{1}{2\sqrt{x}}} \qquad\text{and}\qquad g'(x) = \answ
 \]
 We have that
 \[
-\ddx \sqrt{1+\sqrt{x}} = \frac{1}{2\sqrt{1+\sqrt{x}}}\cdot 1\cdot  \answer[given]{\frac{1}{2\sqrt{x}}}.
+\frac{d}{dx} \sqrt{1+\sqrt{x}} = \frac{1}{2\sqrt{1+\sqrt{x}}}\cdot 1\cdot  \answer[given]{\frac{1}{2\sqrt{x}}}.
 \]
 \end{explanation}
 \end{example}
@@ -105,14 +105,14 @@ would otherwise be difficult to get our hands on.
 \begin{example}
 Compute:
 \[
-\ddx e^{\sin(x^2)}
+\frac{d}{dx} e^{\sin(x^2)}
 \]
 
 \begin{explanation}
 Set $f(x) = \answer[given]{e^x}$, $g(x) = \answer[given]{\sin(x)}$, and $h(x) = \answer[given]{x^2}$
 so that $f(g(h(x))) = e^{\sin(x^2)}$. Now
 \begin{align*}
-  \ddx e^{\sin(x^2)} &= \ddx f(g(h(x)))\\
+  \frac{d}{dx} e^{\sin(x^2)} &= \frac{d}{dx} f(g(h(x)))\\
   &= f'(g(h(x))) \cdot g'(h(x)) \cdot h'(x)\\
   &= e^{\answer[given]{\sin(x^2)}} \cdot \cos(\answer[given]{x^2}) \cdot \answer[given]{2x}.
 \end{align*}
@@ -128,13 +128,13 @@ possible to avoid using the quotient rule entirely.
 \begin{example}
 Compute:
 \[
-\ddx \frac{x^3}{x^2+1}
+\frac{d}{dx} \frac{x^3}{x^2+1}
 \]
 
 \begin{explanation}
 Rewriting this as 
 \[
-\ddx x^3(x^2+1)^{-1}, 
+\frac{d}{dx} x^3(x^2+1)^{-1}, 
 \]
 set $f(x) = \answer[given]{x^{-1}}$ and $g(x) = \answer[given]{x^2+1}$ so that $f(g(x)) = (x^2 + 1)^{-1}$. Now
 \[
@@ -142,11 +142,11 @@ x^3(x^2+1)^{-1} = x^3 f(g(x)),
 \]
 and by the product and chain rules
 \[
-\ddx x^3 f(g(x)) = \answer[given]{3x^2} \cdot f(g(x))+ \answer[given]{x^3} \cdot f'(g(x))g'(x).
+\frac{d}{dx} x^3 f(g(x)) = \answer[given]{3x^2} \cdot f(g(x))+ \answer[given]{x^3} \cdot f'(g(x))g'(x).
 \]
 Since $f'(x) = \answer[given]{\frac{-1}{x^2}}$ and $g'(x) = \answer[given]{2x}$, write
 \[
-\ddx \frac{x^3}{x^2+1} = \frac{3x^2}{x^2+1}-\frac{2x^4}{(x^2+1)^2}.
+\frac{d}{dx} \frac{x^3}{x^2+1} = \frac{3x^2}{x^2+1}-\frac{2x^4}{(x^2+1)^2}.
 \]
 \end{explanation}
 \end{example}
