@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="177.964pt" height="85.438pt" viewBox="0 0 177.964 85.438">
-<path transform="matrix(1,0,0,-1,39.266,85.239009)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 6.23631 0 L 6.23631 6.23631 L 0 6.23631 Z "/>
-<path transform="matrix(1,0,0,-1,39.266,85.239009)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 0 85.04042 L 42.5202 0 Z "/>
+<path transform="matrix(1,0,0,-1,39.266,85.239009)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 6.23631 0 L 6.23631 6.23631 L 0 6.23631 Z "/>
+<path transform="matrix(1,0,0,-1,39.266,85.239009)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 0 85.04042 L 42.5202 0 Z "/>
 <symbol id="font_0_2">
 <path d="M .192 .694 C .192 .695 .192 .705 .179 .705 C .156 .705 .083000008 .697 .057 .695 C .049 .694 .038 .693 .038 .675 C .038 .663 .047000003 .663 .062000004 .663 C .11 .663 .112 .656 .112 .646 C .112 .639 .103 .605 .098000008 .584 L .015999999 .25800003 C .0040000008 .20800002 0 .19200002 0 .15700002 C 0 .062000004 .053 0 .127 0 C .24500002 0 .36800004 .14900002 .36800004 .293 C .36800004 .38400004 .31500004 .45300005 .235 .45300005 C .18900001 .45300005 .148 .42400003 .118 .39300005 L .192 .694 M .098000008 .316 C .104 .33800004 .104 .34000004 .113000009 .351 C .162 .41600005 .207 .43100003 .233 .43100003 C .26900003 .43100003 .29600004 .40100003 .29600004 .337 C .29600004 .27800004 .263 .16300002 .24500002 .12500002 C .212 .058000003 .16600001 .022000002 .127 .022000002 C .092999998 .022000002 .060000007 .049000004 .060000007 .123 C .060000007 .14200002 .060000007 .16100002 .076000008 .22400002 L .098000008 .316 Z "/>
 </symbol>
@@ -32,7 +32,7 @@
 </symbol>
 <use xlink:href="#font_0_4" transform="matrix(9.9626,0,0,-9.9626,88.163509,13.4226)"/>
 <use xlink:href="#font_0_2" transform="matrix(9.9626,0,0,-9.9626,93.42375,13.4226)"/>
-<path transform="matrix(1,0,0,-1,87.765,17.562012)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 9.461 0 "/>
+<path transform="matrix(1,0,0,-1,87.765,17.562012)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 9.461 0 "/>
 <symbol id="font_0_6">
 <path d="M .18300002 .411 L .277 .411 C .29700003 .411 .307 .411 .307 .43100003 C .307 .44200004 .29700003 .44200004 .279 .44200004 L .19100002 .44200004 C .227 .584 .23200003 .60400006 .23200003 .61 C .23200003 .62700006 .22000002 .637 .20300001 .637 C .2 .637 .172 .636 .163 .601 L .124 .44200004 L .030000002 .44200004 C .009999998 .44200004 0 .44200004 0 .42300005 C 0 .411 .007999999 .411 .028 .411 L .11600001 .411 C .044 .127 .04 .11000001 .04 .092 C .04 .038000004 .078 0 .132 0 C .234 0 .291 .14600002 .291 .15400002 C .291 .16400002 .28300003 .16400002 .279 .16400002 C .27 .16400002 .26900003 .16100002 .264 .15000002 C .22100002 .046 .16800002 .022000002 .134 .022000002 C .113000009 .022000002 .103 .035 .103 .068 C .103 .092 .105000007 .09900001 .109 .116000007 L .18300002 .411 Z "/>
 </symbol>
@@ -45,7 +45,7 @@
 <use xlink:href="#font_1_1" transform="matrix(9.9626,0,0,-9.9626,112.20763,20.053017)"/>
 <use xlink:href="#font_0_4" transform="matrix(9.9626,0,0,-9.9626,89.53451,46.587594)" fill="#800000"/>
 <use xlink:href="#font_0_3" transform="matrix(9.9626,0,0,-9.9626,94.734989,46.587594)" fill="#800000"/>
-<path transform="matrix(1,0,0,-1,89.136,50.727006)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#800000" d="M 0 0 L 9.497 0 "/>
+<path transform="matrix(1,0,0,-1,89.136,50.727006)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#800000" d="M 0 0 L 9.497 0 "/>
 <use xlink:href="#font_0_4" transform="matrix(9.9626,0,0,-9.9626,89.8915,60.16159)" fill="#800000"/>
 <use xlink:href="#font_0_6" transform="matrix(9.9626,0,0,-9.9626,94.91265,60.16159)" fill="#800000"/>
 <use xlink:href="#font_1_3" transform="matrix(9.9626,0,0,-9.9626,103.1529,51.892976)" fill="#800000"/>

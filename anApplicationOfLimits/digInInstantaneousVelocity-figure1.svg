@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="176.257pt" height="178.329pt" viewBox="0 0 176.257 178.329">
-<path transform="matrix(1,0,0,-1,-2.541,172.66899)" stroke-width=".19925" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#929292" d="M 88.54478 1.36005 L 92.79655 1.36005 M 88.54478 24.02773 L 92.79655 24.02773 M 88.54478 69.36307 L 92.79655 69.36307 M 88.54478 92.03073 L 92.79655 92.03073 M 88.54478 114.69841 L 92.79655 114.69841 M 88.54478 137.36608 L 92.79655 137.36608 M 88.54478 160.03374 L 92.79655 160.03374 "/>
-<path transform="matrix(1,0,0,-1,-2.541,172.66899)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 90.67067 0 L 90.67067 159.40128 "/>
+<path transform="matrix(1,0,0,-1,-2.541,172.66899)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#808080" d="M 88.54478 1.36005 L 92.79655 1.36005 M 88.54478 24.02773 L 92.79655 24.02773 M 88.54478 69.36307 L 92.79655 69.36307 M 88.54478 92.03073 L 92.79655 92.03073 M 88.54478 114.69841 L 92.79655 114.69841 M 88.54478 137.36608 L 92.79655 137.36608 M 88.54478 160.03374 L 92.79655 160.03374 "/>
+<path transform="matrix(1,0,0,-1,-2.541,172.66899)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 90.67067 0 L 90.67067 159.40128 "/>
 <path transform="matrix(0,-1,-1,-0,88.12967,13.267715)" d="M 1.99252 0 L -1.19551 1.59401 L 0 0 L -1.19551 -1.59401 "/>
 <symbol id="font_0_1">
 <path d="M .57600006 0 C .59300008 0 .611 0 .611 .019999996 C .611 .040000008 .59300008 .040000008 .57600006 .040000008 L .035000005 .040000008 C .018 .040000008 0 .040000008 0 .019999996 C 0 0 .018 0 .035000005 0 L .57600006 0 Z "/>

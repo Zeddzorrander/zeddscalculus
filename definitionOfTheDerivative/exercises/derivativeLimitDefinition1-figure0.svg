@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="243.562pt" height="178.309pt" viewBox="0 0 243.562 178.309">
-<path transform="matrix(1,0,0,-1,.199,171.363)" stroke-width=".19925" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#929292" d="M 81.05542 35.91086 L 81.05542 40.16286 "/>
-<path transform="matrix(1,0,0,-1,.199,171.363)" stroke-width=".19925" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#929292" d="M 159.98488 0 L 164.2368 0 M 159.98488 76.07373 L 164.2368 76.07373 M 159.98488 114.1106 L 164.2368 114.1106 M 159.98488 152.14748 L 164.2368 152.14748 "/>
-<path transform="matrix(1,0,0,-1,.199,171.363)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 38.03687 L 241.17375 38.03687 "/>
+<path transform="matrix(1,0,0,-1,.199,171.363)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#808080" d="M 81.05542 35.91086 L 81.05542 40.16286 "/>
+<path transform="matrix(1,0,0,-1,.199,171.363)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#808080" d="M 159.98488 0 L 164.2368 0 M 159.98488 76.07373 L 164.2368 76.07373 M 159.98488 114.1106 L 164.2368 114.1106 M 159.98488 152.14748 L 164.2368 152.14748 "/>
+<path transform="matrix(1,0,0,-1,.199,171.363)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 38.03687 L 241.17375 38.03687 "/>
 <path transform="matrix(1,0,0,-1,241.37276,133.32614)" d="M 1.99252 0 L -1.19551 1.59401 L 0 0 L -1.19551 -1.59401 "/>
-<path transform="matrix(1,0,0,-1,.199,171.363)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 162.11086 0 L 162.11086 169.17339 "/>
+<path transform="matrix(1,0,0,-1,.199,171.363)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 162.11086 0 L 162.11086 169.17339 "/>
 <path transform="matrix(0,-1,-1,-0,162.30986,2.189621)" d="M 1.99252 0 L -1.19551 1.59401 L 0 0 L -1.19551 -1.59401 "/>
 <symbol id="font_0_1">
 <path d="M .275 .058 L .009999998 .058 L 0 0 L .26500003 0 L .275 .058 Z "/>

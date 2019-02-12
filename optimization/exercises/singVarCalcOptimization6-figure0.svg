@@ -47,5 +47,5 @@
 <use xlink:href="#font_1_4" transform="matrix(8.9664,0,0,-8.9664,37.525747,28.067625)" fill="#000080"/>
 <use xlink:href="#font_1_4" transform="matrix(8.9664,0,0,-8.9664,40.421895,28.067625)" fill="#000080"/>
 </g>
-<path transform="matrix(1,0,0,-1,.199,161.588)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 0 161.39028 L 194.27216 161.39028 L 194.27216 0 L 0 0 Z "/>
+<path transform="matrix(1,0,0,-1,.199,161.588)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 0 161.39028 L 194.27216 161.39028 L 194.27216 0 L 0 0 Z "/>
 </svg>

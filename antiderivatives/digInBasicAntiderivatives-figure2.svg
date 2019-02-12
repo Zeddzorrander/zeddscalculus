@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="216.739pt" height="174.827pt" viewBox="0 0 216.739 174.827">
-<path transform="matrix(1,0,0,-1,9.759,174.62799)" stroke-width=".19925" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#929292" d="M 0 78.56915 L 0 82.8211 M 32.3787 78.56915 L 32.3787 82.8211 M 64.75739 78.56915 L 64.75739 82.8211 M 129.51477 78.56915 L 129.51477 82.8211 M 161.89347 78.56915 L 161.89347 82.8211 M 194.27216 78.56915 L 194.27216 82.8211 "/>
-<path transform="matrix(1,0,0,-1,9.759,174.62799)" stroke-width=".19925" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#929292" d="M 95.01018 26.89838 L 99.26195 26.89838 M 95.01018 134.4919 L 99.26195 134.4919 "/>
-<path transform="matrix(1,0,0,-1,9.759,174.62799)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 80.69513 L 192.27964 80.69513 "/>
+<path transform="matrix(1,0,0,-1,9.759,174.62799)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#808080" d="M 0 78.56915 L 0 82.8211 M 32.3787 78.56915 L 32.3787 82.8211 M 64.75739 78.56915 L 64.75739 82.8211 M 129.51477 78.56915 L 129.51477 82.8211 M 161.89347 78.56915 L 161.89347 82.8211 M 194.27216 78.56915 L 194.27216 82.8211 "/>
+<path transform="matrix(1,0,0,-1,9.759,174.62799)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#808080" d="M 95.01018 26.89838 L 99.26195 26.89838 M 95.01018 134.4919 L 99.26195 134.4919 "/>
+<path transform="matrix(1,0,0,-1,9.759,174.62799)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 80.69513 L 192.27964 80.69513 "/>
 <path transform="matrix(1,0,0,-1,202.03864,93.93286)" d="M 1.99252 0 L -1.19551 1.59401 L 0 0 L -1.19551 -1.59401 "/>
-<path transform="matrix(1,0,0,-1,9.759,174.62799)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 97.13608 0 L 97.13608 159.39775 "/>
+<path transform="matrix(1,0,0,-1,9.759,174.62799)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 97.13608 0 L 97.13608 159.39775 "/>
 <path transform="matrix(0,-1,-1,-0,106.89508,15.23024)" d="M 1.99252 0 L -1.19551 1.59401 L 0 0 L -1.19551 -1.59401 "/>
 <symbol id="font_0_1">
 <path d="M .57600006 0 C .59300008 0 .611 0 .611 .019999996 C .611 .040000008 .59300008 .040000008 .57600006 .040000008 L .035000005 .040000008 C .018 .040000008 0 .040000008 0 .019999996 C 0 0 .018 0 .035000005 0 L .57600006 0 Z "/>
@@ -118,7 +118,7 @@
 <use xlink:href="#font_1_6" transform="matrix(9.9626,0,0,-9.9626,135.22403,47.978174)" fill="#800000"/>
 </g>
 <path transform="matrix(1,0,0,-1,9.759,174.62799)" d="M 99.12863 53.79675 C 99.12863 54.89723 98.23654 55.7893 97.13608 55.7893 C 96.0356 55.7893 95.14352 54.89723 95.14352 53.79675 C 95.14352 52.69629 96.0356 51.8042 97.13608 51.8042 C 98.23654 51.8042 99.12863 52.69629 99.12863 53.79675 Z M 97.13608 53.79675 " fill="#000080"/>
-<path transform="matrix(1,0,0,-1,9.759,174.62799)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M 99.12863 53.79675 C 99.12863 54.89723 98.23654 55.7893 97.13608 55.7893 C 96.0356 55.7893 95.14352 54.89723 95.14352 53.79675 C 95.14352 52.69629 96.0356 51.8042 97.13608 51.8042 C 98.23654 51.8042 99.12863 52.69629 99.12863 53.79675 Z M 97.13608 53.79675 "/>
+<path transform="matrix(1,0,0,-1,9.759,174.62799)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M 99.12863 53.79675 C 99.12863 54.89723 98.23654 55.7893 97.13608 55.7893 C 96.0356 55.7893 95.14352 54.89723 95.14352 53.79675 C 95.14352 52.69629 96.0356 51.8042 97.13608 51.8042 C 98.23654 51.8042 99.12863 52.69629 99.12863 53.79675 Z M 97.13608 53.79675 "/>
 <use xlink:href="#font_3_3" transform="matrix(9.9626,0,0,-9.9626,207.93991,96.17658)"/>
 <use xlink:href="#font_3_4" transform="matrix(9.9626,0,0,-9.9626,104.57792,9.726324)"/>
 </svg>

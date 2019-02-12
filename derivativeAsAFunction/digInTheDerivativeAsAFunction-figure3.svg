@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="387.564pt" height="171.564pt" viewBox="0 0 387.564 171.564">
-<path transform="matrix(1,0,0,-1,.199,171.36499)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 85.58409 L 385.17756 85.58409 "/>
+<path transform="matrix(1,0,0,-1,.199,171.36499)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 85.58409 L 385.17756 85.58409 "/>
 <path transform="matrix(1,0,0,-1,385.37657,85.7809)" d="M 1.99252 0 L -1.19551 1.59401 L 0 0 L -1.19551 -1.59401 "/>
-<path transform="matrix(1,0,0,-1,.199,171.36499)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 193.58502 0 L 193.58502 169.17566 "/>
+<path transform="matrix(1,0,0,-1,.199,171.36499)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 193.58502 0 L 193.58502 169.17566 "/>
 <path transform="matrix(0,-1,-1,-0,193.78403,2.189331)" d="M 1.99252 0 L -1.19551 1.59401 L 0 0 L -1.19551 -1.59401 "/>
 <clipPath id="cp0">
 <path transform="matrix(1,0,0,-1,.199,171.36499)" d="M 0 0 L 387.17008 0 L 387.17008 171.16819 L 0 171.16819 Z "/>
@@ -23,7 +23,7 @@
 <use xlink:href="#font_2_1" transform="matrix(6.9738,0,0,-6.9738,359.04978,50.696069)" fill="#800000"/>
 </g>
 <path transform="matrix(1,0,0,-1,.199,171.36499)" d="M 195.57758 42.79204 C 195.57758 43.89252 194.6855 44.78459 193.58502 44.78459 C 192.48456 44.78459 191.59247 43.89252 191.59247 42.79204 C 191.59247 41.69157 192.48456 40.79948 193.58502 40.79948 C 194.6855 40.79948 195.57758 41.69157 195.57758 42.79204 Z M 193.58502 42.79204 " fill="#ffffff"/>
-<path transform="matrix(1,0,0,-1,.199,171.36499)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M 195.57758 42.79204 C 195.57758 43.89252 194.6855 44.78459 193.58502 44.78459 C 192.48456 44.78459 191.59247 43.89252 191.59247 42.79204 C 191.59247 41.69157 192.48456 40.79948 193.58502 40.79948 C 194.6855 40.79948 195.57758 41.69157 195.57758 42.79204 Z M 193.58502 42.79204 "/>
+<path transform="matrix(1,0,0,-1,.199,171.36499)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M 195.57758 42.79204 C 195.57758 43.89252 194.6855 44.78459 193.58502 44.78459 C 192.48456 44.78459 191.59247 43.89252 191.59247 42.79204 C 191.59247 41.69157 192.48456 40.79948 193.58502 40.79948 C 194.6855 40.79948 195.57758 41.69157 195.57758 42.79204 Z M 193.58502 42.79204 "/>
 <path transform="matrix(1,0,0,-1,.199,171.36499)" d="M 195.57758 128.37615 C 195.57758 129.47661 194.6855 130.3687 193.58502 130.3687 C 192.48456 130.3687 191.59247 129.47661 191.59247 128.37615 C 191.59247 127.27567 192.48456 126.38359 193.58502 126.38359 C 194.6855 126.38359 195.57758 127.27567 195.57758 128.37615 Z M 193.58502 128.37615 " fill="#ffffff"/>
-<path transform="matrix(1,0,0,-1,.199,171.36499)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M 195.57758 128.37615 C 195.57758 129.47661 194.6855 130.3687 193.58502 130.3687 C 192.48456 130.3687 191.59247 129.47661 191.59247 128.37615 C 191.59247 127.27567 192.48456 126.38359 193.58502 126.38359 C 194.6855 126.38359 195.57758 127.27567 195.57758 128.37615 Z M 193.58502 128.37615 "/>
+<path transform="matrix(1,0,0,-1,.199,171.36499)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M 195.57758 128.37615 C 195.57758 129.47661 194.6855 130.3687 193.58502 130.3687 C 192.48456 130.3687 191.59247 129.47661 191.59247 128.37615 C 191.59247 127.27567 192.48456 126.38359 193.58502 126.38359 C 194.6855 126.38359 195.57758 127.27567 195.57758 128.37615 Z M 193.58502 128.37615 "/>
 </svg>

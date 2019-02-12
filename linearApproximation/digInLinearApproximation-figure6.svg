@@ -49,10 +49,10 @@
 </symbol>
 <use xlink:href="#font_3_1" transform="matrix(9.9626,0,0,-9.9626,66.655948,29.08109)"/>
 <use xlink:href="#font_2_1" transform="matrix(9.9626,0,0,-9.9626,76.384899,21.30999)"/>
-<path transform="matrix(1,0,0,-1,81.472,19.177998)" stroke-width=".73" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 0 1.195 "/>
+<path transform="matrix(1,0,0,-1,81.472,19.177998)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 0 1.195 "/>
 <use xlink:href="#font_2_4" transform="matrix(9.9626,0,0,-9.9626,81.73737,19.177998)"/>
 <use xlink:href="#font_2_3" transform="matrix(9.9626,0,0,-9.9626,86.08106,19.177998)"/>
-<path transform="matrix(1,0,0,-1,91.168,19.177998)" stroke-width=".73" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 0 1.195 "/>
+<path transform="matrix(1,0,0,-1,91.168,19.177998)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 0 1.195 "/>
 <use xlink:href="#font_2_2" transform="matrix(9.9626,0,0,-9.9626,91.43337,21.309994)"/>
 <use xlink:href="#font_0_2" transform="matrix(9.9626,0,0,-9.9626,77.15201,31.681332)"/>
 <use xlink:href="#font_1_1" transform="matrix(9.9626,0,0,-9.9626,83.56029,32.129648)"/>

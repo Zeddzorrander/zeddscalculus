@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="387.564pt" height="171.558pt" viewBox="0 0 387.564 171.558">
-<path transform="matrix(1,0,0,-1,.199,171.359)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 85.58105 L 385.17756 85.58105 "/>
+<path transform="matrix(1,0,0,-1,.199,171.359)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 85.58105 L 385.17756 85.58105 "/>
 <path transform="matrix(1,0,0,-1,385.37657,85.77795)" d="M 1.99252 0 L -1.19551 1.59401 L 0 0 L -1.19551 -1.59401 "/>
-<path transform="matrix(1,0,0,-1,.199,171.359)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 193.58502 0 L 193.58502 169.16959 "/>
+<path transform="matrix(1,0,0,-1,.199,171.359)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 193.58502 0 L 193.58502 169.16959 "/>
 <path transform="matrix(0,-1,-1,-0,193.78403,2.1894074)" d="M 1.99252 0 L -1.19551 1.59401 L 0 0 L -1.19551 -1.59401 "/>
 <clipPath id="cp0">
 <path transform="matrix(1,0,0,-1,.199,171.359)" d="M 0 0 L 387.17008 0 L 387.17008 171.16211 L 0 171.16211 Z "/>

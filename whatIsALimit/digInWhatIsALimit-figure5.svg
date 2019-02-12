@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="218.418pt" height="176.412pt" viewBox="0 0 218.418 176.412">
-<path transform="matrix(1,0,0,-1,12.543,173.341)" stroke-width=".19925" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#929292" d="M 0 78.5723 L 0 82.82404 M 48.56879 78.5723 L 48.56879 82.82404 M 145.70639 78.5723 L 145.70639 82.82404 M 194.27519 78.5723 L 194.27519 82.82404 "/>
-<path transform="matrix(1,0,0,-1,12.543,173.341)" stroke-width=".19925" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#929292" d="M 95.01173 0 L 99.26344 0 M 95.01173 40.34909 L 99.26344 40.34909 M 95.01173 121.04727 L 99.26344 121.04727 M 95.01173 161.39636 L 99.26344 161.39636 "/>
-<path transform="matrix(1,0,0,-1,12.543,173.341)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 80.69818 L 192.28194 80.69818 "/>
+<path transform="matrix(1,0,0,-1,12.543,173.341)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#808080" d="M 0 78.5723 L 0 82.82404 M 48.56879 78.5723 L 48.56879 82.82404 M 145.70639 78.5723 L 145.70639 82.82404 M 194.27519 78.5723 L 194.27519 82.82404 "/>
+<path transform="matrix(1,0,0,-1,12.543,173.341)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#808080" d="M 95.01173 0 L 99.26344 0 M 95.01173 40.34909 L 99.26344 40.34909 M 95.01173 121.04727 L 99.26344 121.04727 M 95.01173 161.39636 L 99.26344 161.39636 "/>
+<path transform="matrix(1,0,0,-1,12.543,173.341)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 80.69818 L 192.28194 80.69818 "/>
 <path transform="matrix(1,0,0,-1,204.82494,92.64282)" d="M 1.99252 0 L -1.19551 1.59401 L 0 0 L -1.19551 -1.59401 "/>
-<path transform="matrix(1,0,0,-1,12.543,173.341)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 97.13759 0 L 97.13759 159.40384 "/>
+<path transform="matrix(1,0,0,-1,12.543,173.341)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 97.13759 0 L 97.13759 159.40384 "/>
 <path transform="matrix(0,-1,-1,-0,109.68059,13.937164)" d="M 1.99252 0 L -1.19551 1.59401 L 0 0 L -1.19551 -1.59401 "/>
 <symbol id="font_0_1">
 <path d="M .589 0 C .607 0 .626 0 .626 .022 C .626 .042999999 .606 .042999999 .589 .042999999 L .037 .042999999 C .020000004 .042999999 0 .042999999 0 .022 C 0 0 .019000002 0 .037 0 L .589 0 Z "/>

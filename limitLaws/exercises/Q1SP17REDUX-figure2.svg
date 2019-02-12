@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="204.502pt" height="202.847pt" viewBox="0 0 204.502 202.847">
-<path transform="matrix(1,0,0,-1,8.246,196.656)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M -8.04666 -5.99184 L -8.04666 196.45882 L 196.05931 196.45882 L 196.05931 -5.99184 Z M 196.05931 196.45882 "/>
+<path transform="matrix(1,0,0,-1,8.246,196.656)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M -8.04666 -5.99184 L -8.04666 196.45882 L 196.05931 196.45882 L 196.05931 -5.99184 Z M 196.05931 196.45882 "/>
 <clipPath id="cp0">
 <path transform="matrix(.75,0,0,-.75,8.24575,196.65625)" d="M 0 0 L 243.15868 0 L 243.15868 243.15868 L 0 243.15868 Z "/>
 </clipPath>
@@ -56,16 +56,16 @@
 <path d="M .316 .10500002 L .14000002 .49400003 C .13300002 .51 .12799999 .51 .125 .51 C .124000009 .51 .118999999 .51 .108 .502 L .012999997 .43 C 0 .42000003 0 .417 0 .41400004 C 0 .40900005 .0029999987 .403 .009999998 .403 C .015999996 .403 .033 .417 .044 .425 C .049999998 .43 .065000008 .44099999 .076 .449 L .273 .015999973 C .28 0 .285 0 .294 0 C .30900003 0 .312 .0059999825 .319 .01999998 L .773 .96000006 C .78000006 .97400006 .78000006 .97800007 .78000006 .98 C .78000006 .99 .772 1 .76000007 1 C .75200006 1 .745 .99500009 .73700007 .97900006 L .316 .10500002 Z "/>
 </symbol>
 <use xlink:href="#font_3_3" transform="matrix(7.4719498,0,0,-7.4719498,142.6302,144.2073)" fill="#800000"/>
-<path transform="matrix(.75,0,0,-.75,148.31125,136.885)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#800000" d="M 0 0 L 5.694 0 "/>
+<path transform="matrix(.75,0,0,-.75,148.31125,136.885)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#800000" d="M 0 0 L 5.694 0 "/>
 <use xlink:href="#font_1_3" transform="matrix(7.4719498,0,0,-7.4719498,148.52794,142.86368)" fill="#800000"/>
 <use xlink:href="#font_3_1" transform="matrix(7.4719498,0,0,-7.4719498,154.86243,141.06295)" fill="#800000"/>
 <use xlink:href="#font_2_3" transform="matrix(7.4719498,0,0,-7.4719498,162.37876,142.7815)" fill="#800000"/>
 </g>
-<path transform="matrix(.75,0,0,-.75,8.24575,196.65625)" stroke-width=".19925" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#929292" d="M 4.67612 119.45338 L 4.67612 123.70528 M 28.05676 119.45338 L 28.05676 123.70528 M 51.43741 119.45338 L 51.43741 123.70528 M 74.81805 119.45338 L 74.81805 123.70528 M 98.19868 119.45338 L 98.19868 123.70528 M 144.95998 119.45338 L 144.95998 123.70528 M 168.34062 119.45338 L 168.34062 123.70528 M 191.72127 119.45338 L 191.72127 123.70528 M 215.1019 119.45338 L 215.1019 123.70528 M 238.48255 119.45338 L 238.48255 123.70528 "/>
-<path transform="matrix(.75,0,0,-.75,8.24575,196.65625)" stroke-width=".19925" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#929292" d="M 119.45338 4.67612 L 123.70528 4.67612 M 119.45338 28.05676 L 123.70528 28.05676 M 119.45338 51.43741 L 123.70528 51.43741 M 119.45338 74.81805 L 123.70528 74.81805 M 119.45338 98.19868 L 123.70528 98.19868 M 119.45338 144.95998 L 123.70528 144.95998 M 119.45338 168.34062 L 123.70528 168.34062 M 119.45338 191.72127 L 123.70528 191.72127 M 119.45338 215.1019 L 123.70528 215.1019 M 119.45338 238.48255 L 123.70528 238.48255 "/>
-<path transform="matrix(.75,0,0,-.75,8.24575,196.65625)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 121.57933 L 241.16616 121.57933 "/>
+<path transform="matrix(.75,0,0,-.75,8.24575,196.65625)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#808080" d="M 4.67612 119.45338 L 4.67612 123.70528 M 28.05676 119.45338 L 28.05676 123.70528 M 51.43741 119.45338 L 51.43741 123.70528 M 74.81805 119.45338 L 74.81805 123.70528 M 98.19868 119.45338 L 98.19868 123.70528 M 144.95998 119.45338 L 144.95998 123.70528 M 168.34062 119.45338 L 168.34062 123.70528 M 191.72127 119.45338 L 191.72127 123.70528 M 215.1019 119.45338 L 215.1019 123.70528 M 238.48255 119.45338 L 238.48255 123.70528 "/>
+<path transform="matrix(.75,0,0,-.75,8.24575,196.65625)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#808080" d="M 119.45338 4.67612 L 123.70528 4.67612 M 119.45338 28.05676 L 123.70528 28.05676 M 119.45338 51.43741 L 123.70528 51.43741 M 119.45338 74.81805 L 123.70528 74.81805 M 119.45338 98.19868 L 123.70528 98.19868 M 119.45338 144.95998 L 123.70528 144.95998 M 119.45338 168.34062 L 123.70528 168.34062 M 119.45338 191.72127 L 123.70528 191.72127 M 119.45338 215.1019 L 123.70528 215.1019 M 119.45338 238.48255 L 123.70528 238.48255 "/>
+<path transform="matrix(.75,0,0,-.75,8.24575,196.65625)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 121.57933 L 241.16616 121.57933 "/>
 <path transform="matrix(.75,0,0,-.75,189.12036,105.471759)" d="M 1.99252 0 L -1.19551 1.59401 L 0 0 L -1.19551 -1.59401 "/>
-<path transform="matrix(.75,0,0,-.75,8.24575,196.65625)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 121.57933 0 L 121.57933 241.16616 "/>
+<path transform="matrix(.75,0,0,-.75,8.24575,196.65625)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 121.57933 0 L 121.57933 241.16616 "/>
 <path transform="matrix(0,-.75,-.75,-0,99.430248,15.781631)" d="M 1.99252 0 L -1.19551 1.59401 L 0 0 L -1.19551 -1.59401 "/>
 <use xlink:href="#font_3_1" transform="matrix(7.4719498,0,0,-7.4719498,7.5991728,112.803699)"/>
 <symbol id="font_2_7">

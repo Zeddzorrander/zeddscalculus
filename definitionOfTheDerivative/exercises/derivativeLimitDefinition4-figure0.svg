@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="243.566pt" height="171.566pt" viewBox="0 0 243.566 171.566">
-<path transform="matrix(1,0,0,-1,.199,171.36699)" stroke-width=".19925" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#929292" d="M 151.98177 14.99068 L 151.98177 19.24324 "/>
-<path transform="matrix(1,0,0,-1,.199,171.36699)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 17.11696 L 241.17832 17.11696 "/>
+<path transform="matrix(1,0,0,-1,.199,171.36699)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#808080" d="M 151.98177 14.99068 L 151.98177 19.24324 "/>
+<path transform="matrix(1,0,0,-1,.199,171.36699)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 17.11696 L 241.17832 17.11696 "/>
 <path transform="matrix(1,0,0,-1,241.37732,154.25003)" d="M 1.99252 0 L -1.19551 1.59401 L 0 0 L -1.19551 -1.59401 "/>
-<path transform="matrix(1,0,0,-1,.199,171.36699)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 60.79271 0 L 60.79271 169.17719 "/>
+<path transform="matrix(1,0,0,-1,.199,171.36699)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 60.79271 0 L 60.79271 169.17719 "/>
 <path transform="matrix(0,-1,-1,-0,60.99171,2.189804)" d="M 1.99252 0 L -1.19551 1.59401 L 0 0 L -1.19551 -1.59401 "/>
 <symbol id="font_0_1">
 <path d="M .42400003 .652 C .42600004 .661 .42600004 .66300007 .42600004 .666 C .42600004 .67700007 .41700004 .67700007 .411 .67700007 C .40000005 .67700007 .39900003 .67600008 .38800005 .66200008 L .012000002 .20600002 C .0030000024 .19500001 0 .18 0 .165 L .26500003 .165 C .261 .142 .24900002 .065000008 .24700001 .058000003 C .24000001 .037 .224 .031000002 .16500002 .031000002 L .146 .031000002 L .141 0 C .18 .003 .23700002 .003 .277 .003 C .31900005 .003 .37100003 .003 .41200004 0 C .41400004 .010000001 .41500003 .021000002 .41700004 .031000002 L .39800004 .031000002 C .337 .031000002 .32500003 .037 .32500003 .059000005 C .32500003 .063 .34100003 .15300001 .34300003 .165 L .44300003 .165 L .448 .19600001 L .34800003 .19600001 L .42400003 .652 M .33900003 .569 L .277 .19600001 L .032000007 .19600001 L .33900003 .569 Z "/>

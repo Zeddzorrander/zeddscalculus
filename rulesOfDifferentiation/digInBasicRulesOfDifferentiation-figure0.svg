@@ -107,6 +107,6 @@
 <use xlink:href="#font_6_1" transform="matrix(9.9626,0,0,-9.9626,269.17393,9.571605)"/>
 <use xlink:href="#font_4_2" transform="matrix(9.9626,0,0,-9.9626,278.59895,11.972591)"/>
 <use xlink:href="#font_1_2" transform="matrix(6.9738,0,0,-6.9738,284.3318,8.317741)"/>
-<path transform="matrix(1,0,0,-1,33.343999,17.523)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 256.083 0 "/>
+<path transform="matrix(1,0,0,-1,33.343999,17.523)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 0 L 256.083 0 "/>
 <use xlink:href="#font_4_1" transform="matrix(9.9626,0,0,-9.9626,159.06395,26.95759)"/>
 </svg>

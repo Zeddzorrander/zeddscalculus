@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="108.54pt" height="36.542pt" viewBox="0 0 108.54 36.542">
-<path transform="matrix(1,0,0,-1,4.688,31.854)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M -4.48875 -4.48875 L -4.48875 31.6553 L 103.6543 31.6553 L 103.6543 -4.48875 Z M 103.6543 31.6553 "/>
-<path transform="matrix(1,0,0,-1,4.688,37.627004)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 19.35616 L 97.17302 19.35616 "/>
+<path transform="matrix(1,0,0,-1,4.688,31.854)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M -4.48875 -4.48875 L -4.48875 31.6553 L 103.6543 31.6553 L 103.6543 -4.48875 Z M 103.6543 31.6553 "/>
+<path transform="matrix(1,0,0,-1,4.688,37.627004)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 19.35616 L 97.17302 19.35616 "/>
 <path transform="matrix(1,0,0,-1,101.86102,18.270844)" d="M 1.99252 0 L -1.19551 1.59401 L 0 0 L -1.19551 -1.59401 "/>
-<path transform="matrix(1,0,0,-1,4.688,37.627004)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 49.58276 5.77289 L 49.58276 30.9469 "/>
+<path transform="matrix(1,0,0,-1,4.688,37.627004)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 49.58276 5.77289 L 49.58276 30.9469 "/>
 <path transform="matrix(0,-1,-1,-0,54.27076,6.6801035)" d="M 1.99252 0 L -1.19551 1.59401 L 0 0 L -1.19551 -1.59401 "/>
 <clipPath id="cp0">
 <path transform="matrix(1,0,0,-1,4.688,37.627004)" d="M 0 5.77289 L 99.16554 5.77289 L 99.16554 32.93942 L 0 32.93942 Z "/>
