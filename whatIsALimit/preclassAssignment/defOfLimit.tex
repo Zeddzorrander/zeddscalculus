@@ -9,15 +9,17 @@
    \begin{exercise}
    	This exercise is designed to introduce us to the interactive tool below.  We will use this tool to investigate $ \lim\limits_{x \to c}f(x)=L $.  It will be part of an activity during our next class.  \\
    	   	
-   	First, let's investigate all of the interactive parts.  Move the Right Endpt slider to the right so that it isn't equal to $-5$.  Notice that this moves the point $b$ on the $x$-axis and creates the interval $(a,b)$. The interval is updated on the screen.  If you move the Left Endpt slider, it moves the point $a$ on the $x$-axis.  We can also change these sliders by dragging the points $a$ and $b$ on the $x$-axis.  Dragging the points causes $a$ and $b$ to "snap" to integer values.  We can also change the values by clicking on the point (or slider) to activate it and pressing the left and right arrow keys.  Clicking a point and using arrow keys will cause it to move in increments of 0.1.  Using arrow keys to move the sliders will change $a$ and $b$ in increments of 0.001. If we set Left Endpt (or move $a$) to a value that is greater than (or equal to) that of Right Endpt (or to the right of $b$), then the interval disapears.\\
+   	First, let's investigate all of the interactive parts.  Move the Right Endpt slider to the right so that it isn't equal to $-4$.  Notice that this moves the point $b$ on the $x$-axis and creates the interval $(a,b)$. The interval is updated on the screen.  If you move the Left Endpt slider, it moves the point $a$ on the $x$-axis.  We can also change these sliders by dragging the points $a$ and $b$ on the $x$-axis.  Dragging the points causes $a$ and $b$ to "snap" to integer values.  We can also change the values by clicking on the point (or slider) to activate it and pressing the left and right arrow keys.  Clicking a point and using arrow keys will cause it to move in increments of 0.1.  Using arrow keys to move the sliders will change $a$ and $b$ in increments of 0.001. If we set Left Endpt (or move $a$) to a value that is greater than (or equal to) that of Right Endpt (or to the right of $b$), then the interval disapears.\\
    	
-   	Next, we have the text entry boxes: "$L = $", "$c=$", and "Radius = ".  We can type numbers into all three values.  Changing the values of $L$ and $c$ change the limit that we are investigating.  To see this, simply enter a number into one of these boxes and press Return (or enter) on your keyboard.  Notice, you can set $L$ and $c$ to any values, even if it doesn't make a valid limit.  We can enter any number between 0 and 5 into the Radius box (that is $ 0 \leq \text{Radius} \leq 5 $). \\
+   	Next, we have the text entry boxes: "$L = $", "$c=$", and "Radius = ".  We can type numbers into all three values.  Changing the values of $L$ and $c$ change the limit that we are investigating and center the window on the point $ (c,L) $.  To see this, simply enter a number into one of these boxes and press Return (or enter) on your keyboard.  Notice, you can set $L$ and $c$ to any values, even if it doesn't make a valid limit.  We can enter any number between 0 and 5 into the Radius box (that is $ 0 \leq \text{Radius} \leq 5 $). \\
+   	
+   	Finally, we have the Zoom slider.  Moving this slider to the right will zoom the graph in on the point $ (c, L) $.  Moving it to the left will zoom back out.  As with the other sliders, we can also adjust this by clicking on the slider and using the left and right arrow keys.\\
    	
    	The questions below will give us a little more experience using this tool, but first, let's use the graph to estimate some function and limit values.
    	
    	\begin{center}
    		\begin{onlineOnly}
-   			\geogebra{npwjtrqd}{1000}{600}%%hhttps://www.geogebra.org/classic/npwjtrqd
+   			\geogebra{ddc9ehwf}{1000}{525}%%https://www.geogebra.org/classic/ddc9ehwf
    		\end{onlineOnly} 
    	\end{center}
    	
@@ -46,12 +48,12 @@
    	
    	\begin{center}
    		\begin{onlineOnly}
-   			\geogebra{npwjtrqd}{1000}{600}%%hhttps://www.geogebra.org/classic/npwjtrqd
+   			\geogebra{ddc9ehwf}{1000}{525}%%https://www.geogebra.org/classic/ddc9ehwf
    		\end{onlineOnly} 
    	\end{center}
    	
     \begin{question}
-   	  Change $ c $ to $-2$.  Notice, this updates the limit we are investigating to $\lim\limits_{x \to -2}f(x)=3$.  In order for this limit to be correct, we need to change the value for L to be: 
+   	  Change $ c $ to $-2$.  Notice, this updates the limit we are investigating to $\lim\limits_{x \to -2}f(x)=0$.  In order for this limit to be correct, we need to change the value for $ L $ to be: 
    	  \[
    	      L=\answer{0}
    	  \]
@@ -74,16 +76,23 @@
         		Click on the point $b$ to activate it.  Then press the left arrow key on your keyboard one time.  Notice, this causes $b$ to move from $3$ to $\answer{2.9}$.\\
         		Notice, the portion of the graph on the interval $(a,b)$ has \wordChoice{\choice{done nothing},\choice[correct]{turned green}}.
         		\begin{feedback}
-        			Once you select a point, you can move it in increments of 0.1 by pressing the left and right arrow keys on your keyboard.\\
-        			If you select either the Left Endpt or Right Endpt slider, and use the arrow keys, you will move the slider (and hence $a$ or $b$) in increments of 0.001.  The values of $a$ and $b$ are set to round to the nearest hundreth.  
+        			Recall, once you select a point, you can move it in increments of 0.1 by pressing the left and right arrow keys on your keyboard.\\
+        			Recall, if you select either the Left Endpt or Right Endpt slider, and use the arrow keys, you will move the slider (and hence $a$ or $b$) in increments of 0.001.  The values of $a$ and $b$ are set to round to the nearest thousandth.  
         		\end{feedback}
         	\end{question}
         
         \end{question}
       \end{question}
    \end{question}
+	\begin{question}
+		Set $ c=1, L=0 $ and Radius = 0.  Then set $ a=-1 $ and $ b = 3 $.  Now, move the Left Endpt slider (or point $a$) to the right.  What happened? \wordChoice{\choice{Nothing},\choice[correct]{A purple interval appears on the $y$-axis.}}
+		\begin{feedback}
+			Notice, $f$ maps the interval $ (a, 1) $ onto this purple interval.\\
+			If we move $b$ so that it is between 1 and 3, we will see a similar purple interval that shows what $f$ maps $ (1,b) $ onto.
+		\end{feedback}
+	\end{question}
    \begin{question}
-   	 Play around with this tool.  Use the graph to estimate various limits (that is, change $c$ and $L$ values to estimate limits on this graph).  For each limit you investigate, change the value of Radius and move the Left Endpt and Right Endpt sliders to see if you can make the graph turn green.  On a separate sheet of paper, that you will turn in at the start of our next class, explain what causes the graph to turn green.
+   	 Play around with this tool.  Use the graph to estimate various limits (that is, change $c$ and $L$ values to estimate limits on this graph).  For each limit you investigate, change the value of Radius and move the Left Endpt and Right Endpt sliders to see if you can make the graph turn green.  When you are ready, return to Homework 1 and move on to Problem 2.
    \end{question}
  \end{exercise}
 \end{document}
