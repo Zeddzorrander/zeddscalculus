@@ -258,11 +258,11 @@ Let $f(x)=2x^2+3$.
 \begin{enumerate}
 \item Find the expression for the average rate of change of $f$ between the points  $a=2$ and $x=-1$.
 \[
-AvRCh=\frac{f(-1)-f(2)}{-1-(\answer[given]{2})}
+AvRCh=\frac{f(-1)-f(2)}{-1-\left(\answer[given]{2}\right)}
 \]
   Now evaluate the function,
   \[
-AvRCh=\frac{2(-1)^2+3-(2(2)^2+3)}{-1-(\answer[given]{2})}.
+AvRCh=\frac{2(-1)^2+3-(2(2)^2+3)}{-1-\left(\answer[given]{2}\right)}.
 \]
 Simplify,
  \[
@@ -407,39 +407,34 @@ As before, we can ask ourselves: What happens as $x$ gets closer and closer to $
     \] 
     provided that the limit exists?
     
-    This scenario is illustrated in the figure below. What happens as you drage $x\to a$ in the figure below?
-    \begin{center}
-    	\begin{onlineOnly}
-    		\geogebra{ampxczdp}{800}{600}%%* https://www.geogebra.org/classic/ampxczdp
-    	\end{onlineOnly} 
-    \end{center}
-%    \begin{image}
-%\begin{tikzpicture}
-%  \begin{axis}[
-%      domain=0:2, range=0:6,ymax=6,ymin=0,
-%      axis lines =left, xlabel=$x$, ylabel=$y$,
-%      every axis y label/.style={at=(current axis.above origin),anchor=south},
-%      every axis x label/.style={at=(current axis.right of origin),anchor=west},
-%            xtick={1,1.666}, ytick={1,3},
-%            xticklabels={$a$,$x$}, yticklabels={$f(a)$,$f(x)$},
-%            axis on top,
-%    ]         
-%          \addplot [penColor2!15!background, domain=(0:2)] {-3.348+4.348*x};
-%          \addplot [penColor2!32!background, domain=(0:2)] {-2.704+3.704*x};
-%          \addplot [penColor2!49!background, domain=(0:2)] {-1.994+2.994*x};         
-%          \addplot [penColor2!66!background, domain=(0:2)] {-1.326+2.326*x}; 
-%          \addplot [penColor2!83!background, domain=(0:2)] {-0.666+1.666*x};
-%	  \addplot [textColor,dashed] plot coordinates {(1,0) (1,1)};
-%          \addplot [textColor,dashed] plot coordinates {(0,1) (1,1)};
-%         \addplot [textColor,dashed] plot coordinates {(0,3) (1.666,3)};
-%          \addplot [textColor,dashed] plot coordinates {(1.666,0) (1.666,3)};
-%          \addplot [very thick,penColor, smooth,domain=(0:1.833)] {-1/(x-2)};
-%          \addplot[color=penColor,fill=penColor,only marks,mark=*] coordinates{(1.666,3)};  %% closed hole          
-%          \addplot[color=penColor,fill=penColor,only marks,mark=*] coordinates{(1,1)};  %% closed hole          
-%          \addplot [very thick,penColor2, smooth,domain=(0:2)] {x};
-%        \end{axis}
-%\end{tikzpicture}
-%\end{image}
+    This scenario is illustrated in the figure below. What happens as $x\to a$?
+    \begin{image}
+\begin{tikzpicture}
+  \begin{axis}[
+      domain=0:2, range=0:6,ymax=6,ymin=0,
+      axis lines =left, xlabel=$x$, ylabel=$y$,
+      every axis y label/.style={at=(current axis.above origin),anchor=south},
+      every axis x label/.style={at=(current axis.right of origin),anchor=west},
+            xtick={1,1.666}, ytick={1,3},
+            xticklabels={$a$,$x$}, yticklabels={$f(a)$,$f(x)$},
+            axis on top,
+    ]         
+          \addplot [penColor2!15!background, domain=(0:2)] {-3.348+4.348*x};
+          \addplot [penColor2!32!background, domain=(0:2)] {-2.704+3.704*x};
+          \addplot [penColor2!49!background, domain=(0:2)] {-1.994+2.994*x};         
+          \addplot [penColor2!66!background, domain=(0:2)] {-1.326+2.326*x}; 
+          \addplot [penColor2!83!background, domain=(0:2)] {-0.666+1.666*x};
+	  \addplot [textColor,dashed] plot coordinates {(1,0) (1,1)};
+          \addplot [textColor,dashed] plot coordinates {(0,1) (1,1)};
+          \addplot [textColor,dashed] plot coordinates {(0,3) (1.666,3)};
+          \addplot [textColor,dashed] plot coordinates {(1.666,0) (1.666,3)};
+          \addplot [very thick,penColor, smooth,domain=(0:1.833)] {-1/(x-2)};
+          \addplot[color=penColor,fill=penColor,only marks,mark=*] coordinates{(1.666,3)};  %% closed hole          
+          \addplot[color=penColor,fill=penColor,only marks,mark=*] coordinates{(1,1)};  %% closed hole          
+          \addplot [very thick,penColor2, smooth,domain=(0:2)] {x};
+        \end{axis}
+\end{tikzpicture}
+\end{image}
 Notice that all the secant lines in the figure pass through the given point $(a,f(a))$. What distinguishes these lines are their slopes; the slope of each line is determined by an additional point on the line, $(x,f(x))$. 
 The figure suggests that``the limit of slopes of secant lines" is the slope of a special line, called the \textbf{tangent line} to the curve $y=f(x)$ at the point $(a,f(a))$.
  Notice how the tangent line and the curve are indistinguishable near the point $(a,f(a))$. If one can ``zoom in''
@@ -693,7 +688,7 @@ the slope of the tangent line is
   \]
 		 	\end{explanation}
 			  \begin{onlineOnly}
-  We can confirm our results by looking at the graph of $y=f(x)$ and the line $y=x-1$. 
+  We can confirm our results by looking at the graph of $y=f(x)$ and the line $y=8x-5$. 
   \begin{image}
 \begin{tikzpicture}
 	
