@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="116.035pt" height="128.754pt" viewBox="0 0 116.035 128.754">
+<path transform="matrix(1,0,0,-1,57.291,14.769997)" stroke-width="1.19553" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M -28.3468 0 C -28.3468 -7.82784 -15.6557 -14.17339 0 -14.17339 C 15.6557 -14.17339 28.3468 -7.82784 28.3468 0 "/>
+<path transform="matrix(1,0,0,-1,57.291,14.769997)" stroke-width="1.19553" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M -28.3468 0 C -28.3468 7.82784 -15.6557 14.17339 0 14.17339 C 15.6557 14.17339 28.3468 7.82784 28.3468 0 "/>
+<path transform="matrix(1,0,0,-1,57.291,14.769997)" stroke-width="1.19553" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M -56.69362 -85.04042 C -56.69362 -100.69614 -31.3114 -113.38724 0 -113.38724 C 20.25229 -113.38724 38.97212 -107.98334 49.09827 -99.21382 C 55.76195 -93.4429 58.14713 -86.68062 55.83289 -80.11815 "/>
+<path transform="matrix(1,0,0,-1,57.291,14.769997)" stroke-width="1.19553" stroke-linecap="butt" stroke-dasharray="2.98883,2.98883" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M -56.69362 -85.04042 C -56.69362 -69.3847 -31.3114 -56.69362 0 -56.69362 C 27.51028 -56.69362 51.05588 -66.57185 55.83289 -80.11815 "/>
+<path transform="matrix(1,0,0,-1,57.291,14.769997)" stroke-width="1.19553" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M -56.69362 -82.20555 L -28.3468 0 "/>
+<path transform="matrix(1,0,0,-1,57.291,14.769997)" stroke-width="1.19553" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M 56.69362 -82.20555 L 28.3468 0 "/>
+<clipPath id="cp0">
+<path transform="matrix(1,0,0,-1,57.291,14.769997)" d="M -28.3468 0 C -28.3468 -7.82784 -15.6557 -14.17339 0 -14.17339 C 15.6557 -14.17339 28.3468 -7.82784 28.3468 0 L 56.69362 -85.04042 C 56.69362 -100.69614 31.3114 -113.38724 0 -113.38724 C -31.31143 -113.38724 -56.69365 -100.69614 -56.69365 -85.04042 Z "/>
+</clipPath>
+<g clip-path="url(#cp0)">
+<clipPath id="cp1">
+<path transform="matrix(0,-2.26802,-2.26802,-0,170.69199,184.86461)" d="M 0 0 L 100 0 L 100 100 L 0 100 Z "/>
+</clipPath>
+<g clip-path="url(#cp1)">
+<g opacity=".3">
+<image x="0" y="14" width="114" height="115" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAHIAAABzCAYAAABEgVbYAAABoElEQVR4nO3WYQqC
+QBAG0Lz/rbqRB9DqjxRRzqibtu4TFmRnlfnmgdj1/e1xXa7TGsfn/fvep9rrmbn6
+MHyvRc+/7s/1lz1fKlP2TJR9y2ym1S2BjAYDEiRIkCBBgmwHsgT2qSCjhkGCBAkS
+5K6Q0VBBgiyCDRIkyCzk1kwgQYIECRIkSJAgQYIECRIkSJAgQYJsHjJzBiRIkCBB
+ggQJsi3IaBBbQm8JFL1/rsd/hyyBDRIkSJAgQdYIuccPEUiQIEGCBPmPkCWwQYIE
+CRIkyBohS2CDBAkyC1kCGyRIkCAbg8zAgQQJcml9biAgQYIECRJkzZBRIJAgQYIE
+CRIkyMMho9AgQYIECRIkSJAgQYIECRJkDZBRDyBBggQJEiRIkIdDRg2DBAkSJEiQ
+IEGCBAkSZAWQGZiasUGCXBcIJEiQIEGCBAkSJEiQICuAzECDBAkSJEiQIEGGkFGD
+IEGCBAkSJEiQIFcGAgkSJEiQIEGWh4wGAhIkSJAgQYIECRIkSJAgQYJsEDLqASTI
+OiGjkL8MBBJkqoejvkQgQYI8E+Qd8FpHO0I8d9AAAAAASUVORK5CYII="/>
+</g>
+</g>
+</g>
+<clipPath id="cp2">
+<path transform="matrix(1,0,0,-1,57.291,14.769997)" d="M 28.3468 0 C 28.3468 7.82784 15.6557 14.17339 0 14.17339 C -15.6557 14.17339 -28.3468 7.82784 -28.3468 0 C -28.3468 -7.82784 -15.6557 -14.17339 0 -14.17339 C 15.6557 -14.17339 28.3468 -7.82784 28.3468 0 Z M 0 0 "/>
+</clipPath>
+<g clip-path="url(#cp2)">
+<clipPath id="cp3">
+<path transform="matrix(0,-.567,-1.134,-0,113.991,43.119997)" d="M 0 0 L 100 0 L 100 100 L 0 100 Z "/>
+</clipPath>
+<g clip-path="url(#cp3)">
+<g opacity=".5">
+<image x="28" y="0" width="58" height="29" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAADoAAAAdCAYAAAD7En+mAAAAaklEQVR4nO3QuQ3A
+IAwAQLP/BFmHufIpRRpEPoRSJFcgY8myfU4RwxIx54gp1+P+P8u3Nxb5nZrxYsZR
+fNp3zgkUFBQUFBQUFLQ/tOUYv4TWFwQFBQUFBX0NWu4HCgoKCvoZaMsxQEF7QVfK
+NHisOlz+pQAAAABJRU5ErkJggg=="/>
+</g>
+</g>
+</g>
+</svg>

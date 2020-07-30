@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="143.326pt" height="143.326pt" viewBox="0 0 143.326 143.326">
+<symbol id="font_0_1">
+<path d="M .11400001 .68600007 L .106000009 .63900008 L .21400002 .63900008 L .116 .047000003 L .007000003 .047000003 L 0 0 L .43100003 0 C .68000009 0 .8400001 .18800001 .8400001 .407 C .8400001 .62 .68000009 .68600007 .5450001 .68600007 L .11400001 .68600007 M .252 .047000003 L .351 .63900008 L .49600003 .63900008 C .53200009 .63900008 .5960001 .633 .64300009 .595 C .69900009 .549 .69900009 .47900004 .69900009 .45200003 C .69900009 .393 .68000009 .298 .67800006 .286 C .6650001 .22800002 .62700006 .047000003 .398 .047000003 L .252 .047000003 Z "/>
+</symbol>
+<use xlink:href="#font_0_1" transform="matrix(24.7871,0,0,-24.7871,61.6997,80.166)" fill="#808080"/>
+<path transform="matrix(1,0,0,-1,.797,142.529)" stroke-width="1.59404" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M 0 0 L 141.73404 0 L 141.73404 141.73404 L 0 141.73404 L 0 0 "/>
+<path transform="matrix(1,0,0,-1,.797,142.529)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M 28.3468 0 L 28.3468 141.73404 "/>
+<path transform="matrix(1,0,0,-1,.797,142.529)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M 56.69362 0 L 56.69362 141.73404 "/>
+<path transform="matrix(1,0,0,-1,.797,142.529)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M 85.04042 0 L 85.04042 141.73404 "/>
+<path transform="matrix(1,0,0,-1,.797,142.529)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000080" d="M 113.38724 0 L 113.38724 141.73404 "/>
+</svg>
