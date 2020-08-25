@@ -105,7 +105,7 @@ and we say, the \dfn{limit at infinity} of $f(x)$ is $L$.
 If $f(x)$ becomes arbitrarily close to a specific value $L$ by making
 $x$ sufficiently large and negative, we write
 \[
-\lim_{x \to -\infty} f(x) = L
+\lim_{x\to -\infty} f(x) = L
 \]
 and we say, the \dfn{limit at negative infinity} of $f(x)$ is $L$.  
 \end{definition}
@@ -119,8 +119,8 @@ We will confirm what we guessed earlier by computing the limit at infinity.\\
 \begin{explanation}
 Write
 \begin{align*}
-\lim_{x\to\infty}\frac{6x-9}{x-1} &= \lim_{x\to\infty}\frac{x(6-9/x)}{x(1-1/x)}\\
-&=\lim_{x\to\infty}\frac{6 - \frac{9}{x}}{1 - \frac{1}{x}}\\
+\lim_{x\to\infty}\frac{6x-9}{x-1} &= \lim_{x\to\infty}\frac{6x-9}{x-1}\cdot \frac{1/x}{1/x}\\
+&=\lim_{x\to\infty}\frac{\frac{6x}{x} - \frac{9}{x}}{\frac{x}{x} - \frac{1}{x}}\\
 &=\frac{\lim_{x\to\infty}\Bigl(6- \frac{9}{x}\Bigr)}{\lim_{x\to\infty}\Bigl(1- \frac{1}{x}\Bigr)}\\
 &=\frac{6-9\lim_{x\to\infty}  \frac{1}{x}}{1-\lim_{x\to\infty} \frac{1}{x}}\\
 &=\frac{6-9(0)}{1-0}\\
@@ -138,18 +138,18 @@ Sometimes one must be careful, consider this example.
 \lim_{x\to -\infty} \frac{x^3+1}{\sqrt{x^6+5}}
 \]
 \begin{explanation}
-In this case we factor out $ x^3 $ from the numerator and $ x^6 $ under the square root in the denominator.
+In this case we multiply the numerator and denominator by $-1/x^3$,
+which is a positive number as since $x\to -\infty$, $x^3$ is a negative
+number.
 \begin{align*}
-\lim_{x\to -\infty} \frac{x^3+1}{\sqrt{x^6+5}} &= \lim_{x\to -\infty} \frac{x^3(1+1/x^3)}{\sqrt{x^6(1+5/x^6)}}\\
-&=\lim_{x\to -\infty}\frac{x^3\left( 1+\frac{1}{x^3}\right) }{\sqrt{x^6}\cdot \sqrt{1+\frac{5}{x^6}}}\\
-&=\lim_{x\to -\infty}\frac{x^3\left( 1+\frac{1}{x^3}\right) }{\left|x^3\right| \cdot \sqrt{1+\frac{5}{x^6}}}\\
-&=\lim_{x\to -\infty}\frac{x^3\left( 1+\frac{1}{x^3}\right) }{-x^3\sqrt{1+\frac{5}{x^6}}}\\
-&= \lim_{x\to -\infty} \frac{1+1/x^3}{-\sqrt1+\frac{5}{x^6}}\\
-&= \frac{ \lim_{x\to -\infty}\Bigl(1+1/x^3\Bigr)}{\lim_{x\to -\infty}-\sqrt{1+5/x^6}}\\
-&= \frac{ 1+\lim_{x\to -\infty}(1/x)^3}{-\sqrt{\lim_{x\to -\infty}\Bigl(1+5/x^6\Bigr)}}\\
-&= \frac{ 1+(\lim_{x\to -\infty}1/x)^3}{-\sqrt{1+5(\lim_{x\to -\infty}1/x)^6}}\\
-&= \frac{ 1+(0)^3}{-\sqrt{1+5(0)^6}}\\
-&= \frac{ 1+0}{-\sqrt{1+0}}\\
+\lim_{x\to -\infty} \frac{x^3+1}{\sqrt{x^6+5}} &= \lim_{x\to -\infty} \frac{x^3+1}{\sqrt{x^6+5}} \cdot \frac{-1/x^3}{-1/x^3}\\
+&= \lim_{x\to -\infty} \frac{-1-1/x^3}{\sqrt{x^6/x^6+5/x^6}}\\
+&= \lim_{x\to -\infty} \frac{-1-1/x^3}{\sqrt{1+5/x^6}}\\
+&= \frac{ \lim_{x\to -\infty}\Bigl(-1-1/x^3\Bigr)}{\lim_{x\to -\infty}\sqrt{1+5/x^6}}\\
+&= \frac{ -1-\lim_{x\to -\infty}(1/x)^3}{\sqrt{\lim_{x\to -\infty}\Bigl(1+5/x^6\Bigr)}}\\
+&= \frac{ -1-(\lim_{x\to -\infty}1/x)^3}{\sqrt{1+5(\lim_{x\to -\infty}1/x)^6}}\\
+&= \frac{ -1-(0)^3}{\sqrt{1+5(0)^6}}\\
+&= \frac{ -1-0}{\sqrt{1+0}}\\
 &= -1.
 \end{align*}
 \end{explanation}
