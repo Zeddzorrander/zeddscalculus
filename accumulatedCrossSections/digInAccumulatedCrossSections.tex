@@ -283,7 +283,7 @@ The dark slab is a rectangular prism, so its volume is:
 Since we are slicing with respect to $x$, we must express the side length $s$ in terms of $x$.  Thus, we describe the curves in the image as functions of $x$.  
 
 
-Note that the parabola $x=4-y^2$ must be described using $\answer[given]{2}$ functions of $x$.  In fact, solving for $y$, we obtain $y=+\answer[given]{\sqrt{4-x}}$ and $y=-\answer[given]{\sqrt{4-x}}$.
+%Note that the parabola $x=4-y^2$ must be described using $\answer[given]{2}$ functions of $x$.  In fact, solving for $y$, we obtain $y=+\answer[given]{\sqrt{4-x}}$ and $y=-\answer[given]{\sqrt{4-x}}$.
 
 Note that the parabola $x=4-y^2$ does not pass the vertical line test, so it must be described using $\answer[given]{2}$ functions of $x$.  This also arises as an algebraic consequence when we solve for $y$ since we must consider the positive and negative square roots.  In fact, solving for $y$ gives $y=+\answer[given]{\sqrt{4-x}}$ and $y=-\answer[given]{\sqrt{4-x}}$.
 
@@ -345,17 +345,17 @@ and using $\Delta V = s^2 \Delta x$, we have that the approximate volume of a \e
 \Delta V = \left(\answer[given]{16-4x}\right) \Delta x
 \]
 
-\paragraph{Step 3: Integrate}
-As before, the approximate volume is obtained by adding all of the volumes of all of the approximate slices together.  The exact volume requires simultaneously that the width of the slices become arbitrarily thin and that the number of slices to be added becomes arbitrarily large.
+%\paragraph{Step 3: Integrate}
+%As before, the approximate volume is obtained by adding all of the volumes of all of the approximate slices together.  The exact volume requires simultaneously that the width of the slices become arbitrarily thin and that the number of slices to be added becomes arbitrarily large.
 
-As before, the definite integral performs both of these operations simultaneously.  In fact, since $\Delta V = (16-4x) \Delta x$, we can write:
+%As before, the definite integral performs both of these operations simultaneously.  In fact, since $\Delta V = (16-4x) \Delta x$, we can write:
 
-and the total approximate volume using $n$ slices is:
+%and the total approximate volume using $n$ slices is:
 
-\[
-V \approx  \sum_{k=1}^n (16-4x_k) \Delta x
-\]
-where $x_k$ is the righthand endpoint of each slice.
+%\[
+%V \approx  \sum_{k=1}^n (16-4x_k) \Delta x
+%\]
+%where $x_k$ is the righthand endpoint of each slice.
 
 \paragraph{Step 3: Integrate}
 As before, the approximate volume is obtained by adding all of the volumes of all of the approximate slices together.  The exact volume requires simultaneously that the width $\Delta x$ of the slices become arbitrarily small while the number of slices to be added becomes arbitrarily large.  Symbolically, we write:
@@ -395,7 +395,7 @@ where $x=a$ is the $x$-position of the leftmost cross-section and $x=b$ is the $
 \[
 V=\int_{y=c}^{y=d} A(y) \d y. 
 \]
-where $y=c$ is the $y$-position of the leftmost cross-section and $y=d$ is the $y$-location of the rightmost cross-section.
+where $y=c$ is the $y$-position of the lowest cross-section and $y=d$ is the $y$-location of the highest cross-section.
 \end{itemize}
 In each case, $A$ is the cross-sectional area of a slice of the solid.  Note that both the area and the limits of integration must be expressed in terms of the variable of integration.
 
@@ -587,18 +587,8 @@ Putting this together, we can write down a sum of integrals that gives the volum
 
 
 \section{Final thoughts}
-To summarize some recurring ideas we have seen we have seen (and will see again), always draw and label a picture.  Interpret the quantities in your picture and write down the relevant geometric quantities in terms of the variable of integration.
-{\renewcommand*{\arraystretch}{1.5}
-\[
-\begin{array}{ll}
-\textrm{Shape} & \textrm{Area Formula} \\ 
-\textrm{Square:} & A=s^2, \textrm{where } s \textrm{ is the length of a side.} \\  
-\textrm{Equilateral Triangle:} & A=\frac{\sqrt{3}}{4} s^2, \textrm{where } s \textrm{ is the side length.} \\  
-\textrm{Right Isosceles Triangle:} & A=\frac{1}{2} s^2, \textrm{where } s \textrm{ is one of the equal side lengths.} \\  
-\textrm{Semicircle:} & A=\frac{1}{2} \pi r^2, \textrm{where } r \textrm{ is the radius of the circle.} 
-\end{array}
-\]
-}
+%To summarize some recurring ideas we have seen we have seen (and will see again), always draw and label a picture.  Interpret the quantities in your picture and write down the relevant geometric quantities in terms of the variable of integration.
+
 
 
 At the risk of being repetitive, let's summarize some recurring ideas we have seen in the past few sections and will see again.  
@@ -611,6 +601,17 @@ At the risk of being repetitive, let's summarize some recurring ideas we have se
 \item When we integrate with respect to $x$, we use vertical slices and when we use vertical slices, we integrate with respect to $x$. When we integrate with respect to $y$, we use horizontal slices and when we use horizontal slices, we integrate with respect to $y$.
 \end{itemize}
 
+{\renewcommand*{\arraystretch}{1.5}
+	\[
+	\begin{array}{ll}
+		\textrm{Shape} & \textrm{Area Formula} \\ 
+		\textrm{Square:} & A=s^2, \textrm{where } s \textrm{ is the length of a side.} \\  
+		\textrm{Equilateral Triangle:} & A=\frac{\sqrt{3}}{4} s^2, \textrm{where } s \textrm{ is the side length.} \\  
+		\textrm{Right Isosceles Triangle:} & A=\frac{1}{2} s^2, \textrm{where } s \textrm{ is one of the equal side lengths.} \\  
+		\textrm{Semicircle:} & A=\frac{1}{2} \pi r^2, \textrm{where } r \textrm{ is the radius of the circle.} 
+	\end{array}
+	\]
+}
 \begin{fact}
 Once we choose a variable of integration, everything in the integrand must be expressed in terms of that variable.  This includes both the limits of integration and any functions that arise in the integrand.
 \end{fact}
