@@ -24,7 +24,7 @@ Recall that we introduced the definite integral
 
 as a limit of Riemann sums.  This limit need not always exist, as it depends on the properties of the
 function $f$ on the given interval $[a, b]$.  When the function $f$ is \emph{continuous} on $[a,b]$, this 
-definite integral represents the net between the graph of $y=f(x)$ and the $x$-axis on $a \leq x \leq b$
+definite integral represents the net area between the graph of $y=f(x)$ and the $x$-axis on $a \leq x \leq b$
 
 \begin{image}
 \begin{tikzpicture}
@@ -408,19 +408,19 @@ Similarly we obtain
 
 Now we take the limits of each integral
 
-\begin{question}
+%\begin{question}
 Determine the following limits:
 
- \begin{prompt}
-   \[
-    \lim_{b\to\infty} \arctan(b) = \answer[given]{\pi/2}
-    \]
+% \begin{prompt}
+\[
+\lim_{b\to\infty} \arctan(b) = \answer[given]{\pi/2}
+\]
 
 \[
 \lim_{a \to -\infty} -\arctan(a)=\answer[given]{\pi/2}
 \]
-  \end{prompt}
-\end{question}
+%  \end{prompt}
+%\end{question}
 
 Hence we have
 
@@ -563,9 +563,9 @@ Just as we did in the case of unbounded integrals, we can make sense of this int
 \]
 We can then evaluate our original improper integral: 
     \begin{align*}
-      \int_{0}^1 \frac{1}{\sqrt{x}} \d x &= \lim_{\answer[given]{b} \to 0} \int_{b}^1 \frac{1}{\sqrt{x}} \d x \\
-      &=  \lim_{b \to 0}  \eval{\answer[given]{2\sqrt{x}}}_b^1 \\
-      &=  \lim_{b \to 0} \left(\answer[given]{2-2\sqrt{b}}\right)\\
+      \int_{0}^1 \frac{1}{\sqrt{x}} \d x &= \lim_{\answer[given]{b} \to 0^{+}} \int_{b}^1 \frac{1}{\sqrt{x}} \d x \\
+      &=  \lim_{b \to 0^{+}}  \eval{\answer[given]{2\sqrt{x}}}_b^1 \\
+      &=  \lim_{b \to 0^{+}} \left(\answer[given]{2-2\sqrt{b}}\right)\\
       &= \answer[given]{2}.
     \end{align*}
 
