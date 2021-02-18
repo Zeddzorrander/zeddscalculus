@@ -23,19 +23,19 @@ Let $a_k = \answer[given]{\frac{k}{2^k}}$ be the formula for the terms in sequen
 Notice that by treating the division by $a_k$ as multiplication by its reciprocal, 
 
 \[
-\lim_{k \to \infty} \left|\frac{a_{n+1}}{a_n}\right| = \lim_{k \to \infty} \frac{k+1}{2^{k+1}} \cdot \frac{2^k}{k}.
+\lim_{k \to \infty} \left|\frac{a_{k+1}}{a_k}\right| = \lim_{k \to \infty} \frac{k+1}{2^{k+1}} \cdot \frac{2^k}{k}.
 \]
 
 After rearranging a little, we have
 
 \[
-\lim_{k \to \infty} \left|\frac{a_{n+1}}{a_n}\right| = \lim_{k \to \infty} \frac{k+1}{k} \cdot \frac{2^k}{2^{k+1}},
+\lim_{k \to \infty} \left|\frac{a_{k+1}}{a_k}\right| = \lim_{k \to \infty} \frac{k+1}{k} \cdot \frac{2^k}{2^{k+1}},
 \]
 
 and we can now finish computing the limit.
 
 \[
-\lim_{k \to \infty} \left|\frac{a_{n+1}}{a_n}\right| = \lim_{k \to \infty} \frac{k+1}{k} \cdot \frac{\cancel{2^k}}{\cancel{2^k} \cdot 2^1} = \answer[given]{\frac{1}{2}}.
+\lim_{k \to \infty} \left|\frac{a_{k+1}}{a_k}\right| = \lim_{k \to \infty} \frac{k+1}{k} \cdot \frac{\cancel{2^k}}{\cancel{2^k} \cdot 2^1} = \answer[given]{\frac{1}{2}}.
 \]
 
 Thus, when $k$ is large, $a_{k+1}$ is pretty close to
@@ -209,7 +209,7 @@ In order to determine what happens here, we can actually use partial fraction de
 \frac{1}{k^2+k} = \frac{1}{k}-\frac{1}{k+1}.
 \] 
 
-As such, we can write \[\sum_{k=1}^{\infty} \frac{1}{k^2+k} = \sum_{k=1}^{\infty} \left(\frac{1}{k}-\frac{1}{k+1}\right),\] and recognize this as a telescoping series.  By setting $s_n = \sum_{k=1}^n$ and writing out several terms (as done in an earlier section), we can find an explicit formula
+As such, we can write \[\sum_{k=1}^{\infty} \frac{1}{k^2+k} = \sum_{k=1}^{\infty} \left(\frac{1}{k}-\frac{1}{k+1}\right),\] and recognize this as a telescoping series.  By setting $s_n = \sum_{k=1}^na_k$ and writing out several terms (as done in an earlier section), we can find an explicit formula
 
 \[
 s_n = 1 - \frac{1}{n+1}.
