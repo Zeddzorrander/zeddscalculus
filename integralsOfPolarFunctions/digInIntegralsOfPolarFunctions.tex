@@ -414,6 +414,7 @@ two curves, and this can be difficult.
             yticklabels={},axis on top
           ]
           \addplot+[draw=none,very thick, mark=none,fill=fill1,domain=45:225,samples=100,smooth] {1+cos(x)} \closedcycle;
+          \addplot+[draw=none,very thick, mark=none,fill=white,domain=0:45,samples=100,smooth] {pi/4*sec(x)} \closedcycle;
           %\addplot+[draw=none,very thick, mark=none,fill=fill1,domain=-135:45,samples=100,smooth] {1+sin(x)}\closedcycle;
           %\addplot[fill=fill1,draw=none,very thick, mark=none,domain=45:135,samples=100,smooth] {1+cos(x)}\closedcycle;
           
