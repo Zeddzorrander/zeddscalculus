@@ -220,7 +220,7 @@ petals must have an area of $\pi/4$. Compare this to
 \begin{align*}
 \frac{1}{2}\int_0^{2\pi}  \cos^2(3\theta) \d \theta &= \frac{1}{2}\int_{0}^{2\pi} \frac{1-\cos(6\theta)}{2} \d \theta\\
 &= \frac{1}{4}\int_{0}^{2\pi} 1-\cos(6\theta) \d \theta\\
-&= \frac{1}{4}\int_{0}^{2\pi} \theta-\frac{\sin(6\theta)}{6} \d \theta\\
+%&= \frac{1}{4}\int_{0}^{2\pi} \theta-\frac{\sin(6\theta)}{6} \d \theta\\
 &= \frac{1}{4}\eval{\theta-\frac{\sin(6\theta)}{6}}_{0}^{2\pi}\\
 &= \frac{\pi}{2}
 \end{align*}
@@ -413,6 +413,8 @@ two curves, and this can be difficult.
             ytick={.5,1,...,2},
             yticklabels={},axis on top
           ]
+          \addplot+[draw=none,very thick, mark=none,fill=fill1,domain=45:225,smooth] {1+cos(x)} \closedcycle;
+          \addplot+[draw=none,very thick, mark=none,fill=white,domain=-115:45,samples=100,smooth] {1+sin(x)}\closedcycle;
           %\addplot[fill=fill1,draw=none,very thick, mark=none,domain=45:135,samples=100,smooth] {1+cos(x)}\closedcycle;
           
           \addplot[draw=penColor,very thick, mark=none,domain=0:360,samples=100,smooth] {1+cos(x)};
