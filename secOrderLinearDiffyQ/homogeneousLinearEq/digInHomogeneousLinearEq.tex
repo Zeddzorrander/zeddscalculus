@@ -9,13 +9,92 @@
 \title[Dig-In:]{Homogeneous Linear Equations}
 
 \begin{document}
-\begin{abstract}
-  
-\end{abstract}
-\maketitle
+	\begin{abstract}
+	  We cover the general theory behind finding the general solutions to second order homogeneous and non-homogeneous equations.
+	\end{abstract}
+	\maketitle
 
-
-
-
-
+	Second order differential equations are an important branch of mathematics with applications to physics, engineering, chemistry, biology, economics, and many other disciplines.  We will focus our study on a subset of these equations.
+	
+	\begin{definition}[Second Order Linear Equations]
+		A second order differential equation is said to be \dfn{linear} if it can be written in the form:
+		\[
+			y''+p(x)y'+q(x)y = f(x)
+		\]
+		If it is not in this form, we say it is \dfn{nonlinear}.  
+	\end{definition}
+	
+	In other words, the equataion contains no powers, products or quotients of $ y, y', $ or $ y'' $.
+	
+	\begin{definition}[Homogeneous Equations]
+		A second order linear equation is said to be \dfn{homogeneous} when the term $ f(x)=0 $ for all $ x $.  Otherwise, the equation is called \dfn{nonhomogeneous}.
+	\end{definition}
+	
+	\begin{example}
+		Which of the following differential equations are second order linear equations?
+		\begin{selectAll}
+			\choice[correct] $ x^2y''-5xy'+\ln(x)y = \sqrt{x} $
+			\choice $ y''-\sqrt{xy'}+x^2y=0 $
+			\choice $ y \dfrac{dy}{dx}-5x \dfrac{d^2y}{dx^2} = 3x $
+			\choice[correct] $ e^x y''=y \sin(x) $
+			\choice $ y''+3y'-x \cos(y) = 0 $
+			\choice[correct] $ \dfrac{y''}{y'}-\ln(x) = \sqrt{x} $
+		\end{selectAll}
+		\begin{feedback}
+			Remember, linear equations are linear in the dependent variable, $ y $, not in the independent variable, $ x $.  That means that $ p(x) $ and $ q(x) $ can be any function.  Also, we can use algebra to rewrite the equations in equivalent forms.  As long as one of these forms matches that in the definition of a linear equation, the equation is linear.
+		\end{feedback}
+	\end{example}
+	
+	\begin{question}
+		Consider the differential equation $ y''-4y=0 $.  Which of the following functions are solutions to this differential equation?
+		\begin{selectAll}
+			\choice[correct] $ y = e^{2x} $
+			\choice $ y=\sin(2x) $
+			\choice $ y=\cos(2x) $
+			\choice[correct] $ y = e^{-2x} $
+			\choice[correct] $ y = 3e^{2x} $
+		\end{selectAll}
+		\begin{hint}
+			Compute the first and second derivatives of each option and plug them into the equation.  A solution is a function that satisfies the equation.
+		\end{hint}
+		\begin{feedback}
+			Notice that the differential equation is stating that the second derivative of the function is a multiple of the original function.  Exponential functions and the sine and consine functions are natural choices as solutions to this type of equation.
+		\end{feedback}
+	\end{question}
+	
+	With homogeneous equations, if we know two solutions, we can know many more soltuions as any constant multiple of a solution will produce a new solution.  This idea is called the principal of superposition.  It can be expressed in the following theorem.
+	
+	\begin{theorem}[Principal of Superposition]
+		If $ y_1 $ and $ y_2 $ are two solutions to the homogeneous equation 
+		\[
+			y'' +p(x)y'+q(x)y = 0
+		\]
+		on the interval $ (a,b) $, then any linear combination
+		\[
+			y = c_1y_1 + c_2y_2
+		\]
+		of $ y_1 $ amd $ y_2 $ is also a solution on $ (a,b) $.
+	\end{theorem}
+	\begin{explanation}
+		Since we know $ y-1 $ and $ y_2 $ are solutions to the equation, we know that
+		\[
+			y_1''+p(x)y_1'+q(x)y_1 = 0 \mbox{ and } y_2''+p(x)y_2'+q(x)y_2 = 0
+		\]
+		Now let's check that the linear combination of these two solutions, $ y=c_1y_1 + c_2y_2 $ is also a solution.  We have $ y' = c_1y_1' + c_2y_2' $ and $ y'' = c_1y_1'' + c_2y_2'' $.
+		\begin{align*}
+			y'' + p(x)y' + q(x)y &= 0 \\
+			(c_1y_1'' + c_2y_2'') + p(x)(c_1y_1' + c_2y_2') + q(x)(c_1y_1 + c_2y_2) &= 0 \\
+			c_1y_1'' + c_2y_2'' + c_1p(x)y_1' + c_2p(x)y_2' + c_1q(x)y_1 + c_2q(x)y_2 &= 0 \\
+			c_1y_1'' + c_1p(x)y_1' + c_1q(x)y_1 + c_2y_2'' + c_2p(x)y_2' + c_2q(x)y_2 &= 0 \\
+			c_1(y_1'' + p(x)y_1' + q(x)y_1) + c_2(y_2'' + p(x)y_2' + q(x)y_2) &= 0 \\
+			c_1(0) + c_2(0) &= 0
+		\end{align*}
+	\end{explanation}
+	
+	This theorem shows that second order linear homogeneous equations can have infinitely many solutions.  We call the linear combination of solutions a family of solutions.  If we wanted to know a particular set of solutions from this family, we would need a set of initial conditions.  We would need to know a point the function passes through and the instantaneous rate of change at that point.  That is, we would need to know $ y(x_0) = k_0 $ and $ y'(x_0) = k_1. $  The differential equation together with the initial conditions is called an initial value problem.
+	
+	Unlike first order linear equations, it can be quite difficult to solve a general second order linear equation.  However, mathematicians have discovered conditions under which we can guarantee the existence of solutions to second order linear equations.
+	\begin{theorem}[Uniqueness and Existence]
+		content...
+	\end{theorem}
 \end{document}
