@@ -38,5 +38,3 @@
 auto/
 *.fdb_latexmk
 *.fls
-*.png
-*.svg
